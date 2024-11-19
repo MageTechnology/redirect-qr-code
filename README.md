@@ -1,0 +1,1 @@
+Esse site redireciona para a link-tree da Mage Technology e conta os acessos com google analytics.
